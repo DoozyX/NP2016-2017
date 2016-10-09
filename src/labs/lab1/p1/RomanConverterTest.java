@@ -1,6 +1,11 @@
 package labs.lab1.p1;
+
 import java.util.Scanner;
 import java.util.stream.IntStream;
+
+/*
+Да се напише метод кој ќе прима еден цел број и ќе ја печати неговата репрезентација како Римски број.
+*/
 
 public class RomanConverterTest {
     public static void main(String[] args) {
